@@ -1,1 +1,1 @@
-# Python-Interview-Module
+# SPOJ SOLUTIONS
